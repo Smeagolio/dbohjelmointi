@@ -1,0 +1,5 @@
+Tässä on restit + mitä yritin tehdä backendiin projektissa, mutta
+ei loppuenlopuksi päätynytkään projektiin, kun oli helpompia ja 
+toimivempia tapoja ainakin mitä itse pystyin tekemään.
+
+Ei ole aikaa tehdä hienompaa tai parempaa. 
